@@ -1,2 +1,4 @@
 # odin-recipes
-Cool recipes
+Cool recipes to discover!!
+
+(First project from theodinproject.com)
